@@ -9,3 +9,5 @@
 -  I used this.$refs to access the value of the inputs.
 -  I practice the default and named slots and how to add default content to the slot if it is not provided.
 -  Finally, I practice the v-for / v-if and some best practices to organize the code, files, and folders.
+
+# To Start The Project: Clone the code to your local machine and follow HOW-TO-USE PDF file.
